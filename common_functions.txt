@@ -1,5 +1,5 @@
 def feature2():
-	print(feature)
+	print(feature2)
 
 
 def feature1():
