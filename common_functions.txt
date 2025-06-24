@@ -1,2 +1,2 @@
 def feature2():
-	print(feature)
+	print(feature2)
